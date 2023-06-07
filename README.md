@@ -3,5 +3,11 @@ Mobility as a service. Connecting users to drivers and riders. The mobile applic
 
 <h1>FEATURES</h1>
 <p>The following is a list of expected features</p>
-- Logistics
-- Transport booking
+<ul>
+    <li>Logistics</li>
+    <li>Taxe booking</li>
+    <li>Car Hire</li>
+    <li></li>
+</ul>
+-
+-
